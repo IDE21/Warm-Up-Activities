@@ -8,19 +8,19 @@ This project is all about working with user data in Python, using dictionaries a
 ### What You’ll Be Doing:
 
 1. **Turning User Info into a Dictionary**:
-   - **Function**: `build_user_as_dict(name, email, age)`
+   - **Function**: build_user_as_dict(name, email, age)
    - **What It Does**: Takes basic user details like name, email, and age, and turns them into a neat dictionary format. Think of it as a digital ID card for each user.
 
 2. **Converting Lists to Dictionaries**:
-   - **Function**: `transform_user_list_to_dict(a_user)`
+   - **Function**: transform_user_list_to_dict(a_user)
    - **What It Does**: Starts with a simple list of user information and transforms it into a dictionary. It’s like organizing scattered notes into a tidy file.
 
 3. **Handling Multiple Users**:
-   - **Function**: `transform_multiple_users_to_dicts(multiple_users)`
+   - **Function**: transform_multiple_users_to_dicts(multiple_users)
    - **What It Does**: When you have a bunch of users, this function helps by converting all their data into a list of dictionaries, making it super easy to manage a large group.
 
 4. **Grouping Users by Email Domain**:
-   - **Function**: `group_users_by_email_domain(multiple_users)`
+   - **Function**: group_users_by_email_domain(multiple_users)
    - **What It Does**: This is where things get interesting! It groups users based on their email domain (like gmail.com or hotmail.com), so you can see who’s using what. It’s a great way to organize and analyze your data.
 
 ### Why It Matters:
